@@ -3,7 +3,7 @@
 Arduino Light Meter for photography, giving lux and EV values.
 Av and Tv modes available. 
 
-Electronic components used :
+Electronic components used (schematic.pdf) :
 * Arduino Uno
 * 2.2" Serial SPI TFT LCD Display Module 240x320 Chip ILI9340C
 * Adafruit TSL2591
